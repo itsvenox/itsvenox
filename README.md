@@ -12,7 +12,7 @@ I make stuff.
 
 ## Frameworks/engines
 
-![Flutter](https://img.shields.io/badge/Flutter-%23323330.svg?style=for-the-badge&logo=flutter&logoColor=blue) ![Django](https://img.shields.io/badge/Django%23-%23239120.svg?style=for-the-badge&logo=django&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/React-%231572B6.svg?style=for-the-badge&logo=react&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%23323330.svg?style=for-the-badge&logo=flutter&logoColor=blue) ![Django](https://img.shields.io/badge/Django%23-%23239120.svg?style=for-the-badge&logo=django&logoColor=white) ![React](https://img.shields.io/badge/React-%231572B6.svg?style=for-the-badge&logo=react&logoColor=white)
 
 ## Design
 
